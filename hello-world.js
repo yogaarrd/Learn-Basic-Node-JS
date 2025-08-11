@@ -1,2 +1,2 @@
-console.info("Wlwlwlwlwl Bapakna jualan batagor");
+console.info("Hello World");
 
