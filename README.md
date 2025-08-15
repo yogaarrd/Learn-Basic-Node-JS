@@ -35,13 +35,20 @@
 
 ##  Overview
 
-<code>❯ REPLACE-ME</code>
+This repository contains comprehensive hands-on examples demonstrating core Node.js concepts and modules. Designed for beginners, it provides practical implementations of Node.js fundamentals including asynchronous programming, system modules, networking, and more. Each file serves as a self-contained learning module with clear explanations of key concepts.
 
 ---
 
 ##  Features
 
-<code>❯ REPLACE-ME</code>
+- ✅ **Core Module Demonstrations**: Practical examples for all major Node.js modules (fs, http, path, os, dns, etc.)
+- ⚡ **Asynchronous Programming**: Callbacks, Promises, async/await patterns
+- 🔌 **Event-Driven Architecture**: EventEmitter pattern implementation
+- 📦 **Buffer & Stream Handling**: Binary data processing and stream pipelines
+- 🌐 **Networking**: HTTP/TCP servers and clients
+- ⚙️ **System Interaction**: Process management, OS utilities, and environment variables
+- 🔍 **Debugging Tools**: Inspector and diagnostic report generation
+- 🧵 **Advanced Features**: Worker threads, clustering, and zlib compression
 
 ---
 
