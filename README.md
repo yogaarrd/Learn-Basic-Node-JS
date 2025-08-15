@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://e7.pngegg.com/pngimages/493/735/png-clipart-node-js-javascript-express-js-mongodb-github-github-angle-text.png" align="center" width="30%">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" align="center" width="30%">
 </p>
 <p align="center"><h1 align="center">LEARN-BASIC-NODE-JS</h1></p>
 <p align="center">
